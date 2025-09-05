@@ -1,0 +1,7 @@
+n = int(input("Enter a number: "))
+
+# While loop
+i = 1
+while i <= n:
+    print(i, end=" ")
+    i += 1
